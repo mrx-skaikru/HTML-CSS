@@ -1,6 +1,6 @@
 # HTML-CSS
 
-Curso de HTML e CSS.
+Node Studio Treinamentos - youtube
 
 * Curso HTML5 e CSS3 na prática.
 
